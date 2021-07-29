@@ -49,3 +49,8 @@ border-color: #E76F51 !important;
 .footer-list a{
     text-decoration: none;
 }
+.footer-list li a{
+    display: block;
+  padding: 8px;
+  
+}
