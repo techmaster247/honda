@@ -1,56 +1,70 @@
-.banner-section{
-    background-color: #264653 !important;
+/* header css */
+.navbar-nav li a {
+  color: white !important;
 }
-.banner-btn{
-    background-color: #E76F51 !important;
+.nav-section {
+  background-color: #264653 !important;
 }
-.banner-text h1{
-font-size: 48px;
+.login-item {
+  background-color: tomato !important;
+  border-radius: 5px rounded tomatto;
 }
-.banner-text p{
-font-size: 16px;
+.banner-section {
+  background-color: #264653 !important;
 }
-.feature-product img{
-height: 243px;
-width: 288px;
+.banner-btn {
+  background-color: #e76f51 !important;
 }
-.gray-scale{
-    filter: grayscale(100%);
+.banner-text h1 {
+  font-size: 48px;
 }
-.feature-text h1{
-    font-size: 48px;
+.banner-text p {
+  font-size: 16px;
 }
-.feature-text p{
-    font-size: 14px;
-    color: #E76F51;
+/* feature css */
+.feature-product img {
+  height: 243px;
+  width: 288px;
 }
-.feature-product{
-    margin-bottom: 100px !important;
+.gray-scale {
+  filter: grayscale(100%);
 }
+.feature-text h1 {
+  font-size: 48px;
+}
+.feature-text p {
+  font-size: 14px;
+  color: #e76f51;
+}
+.feature-product {
+  margin-bottom: 100px !important;
+}
+/* latest css */
 .latest-btn {
-    background-color: #E76F51 !important;
+  background-color: #e76f51 !important;
 }
-.cbr-btn .btn{
-color: #E76F51 !important;
-border-color: #E76F51 !important;
+.cbr-btn .btn {
+  color: #e76f51 !important;
+  border-color: #e76f51 !important;
 }
-.client-image{
-    height: 149px;
-    width: 149px;
+/* client css */
+.client-image {
+  height: 149px;
+  width: 149px;
 }
-.faq-banner img{
-    width: 431px !important;
-    height: 423px !important;
+.faq-banner img {
+  width: 431px !important;
+  height: 423px !important;
 }
-.footer-list{
-    list-style: none;
-    display: flex;
+/* footer css */
+.footer-list {
+  list-style: none;
+  display: flex;
 }
-.footer-list a{
-    text-decoration: none;
+.footer-list a {
+  text-decoration: none;
 }
-.footer-list li a{
-    display: block;
+.footer-list li a {
+  display: block;
   padding: 8px;
-  
 }
